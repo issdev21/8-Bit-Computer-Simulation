@@ -1,0 +1,11 @@
+# Proteus backup files
+*.pdsbak
+*.~*
+
+# Proteus workspace and simulation files
+*.workspace
+*.SDF
+*.mdf
+
+# Log files
+*.log
